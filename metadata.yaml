@@ -1,0 +1,36 @@
+_repo: Aus-meinem-K-nigreich--Tales-from-the-Carpathian-Mountains_31731
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sylva, Carmen
+    aliases:
+    - Silva, Carmen
+    - Elisabeth, Queen, consort of Charles I, King of Romania
+    birthdate: 1843
+    deathdate: 1916
+    gutenberg_agent_id: '35434'
+    url: http://www.gutenberg.org/2009/agents/35434
+  editor:
+    agent_name: Bernhardt, Wilhelm
+    deathdate: 1909
+    gutenberg_agent_id: '24966'
+    url: http://www.gutenberg.org/2009/agents/24966
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2010-03-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31731'
+  lccn: '01002401'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Folklore -- Romania'
+- !lcc 'PT'
+title: 'Aus meinem Königreich: Tales from the Carpathian Mountains'
+url: http://www.gutenberg.org/ebooks/31731
